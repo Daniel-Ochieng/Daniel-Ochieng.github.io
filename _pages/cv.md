@@ -17,20 +17,26 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019-2021: Tutorial Fellow
+  * Laikipia University
+  * Duties includes: Teaching
+  * Supervisor: Dr. Poti Abaja
+    
+* 2017-2019: Graduate Assistant
+  * Laikipia University
+  * Duties includes: Exercise classes
+  * Supervisor: Dr. Poti Abaja
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015-2017: Intern (Statistics)
+  * Kenya National Highways Authority (KeNHA)
+  * Duties includes: Monitoring and evaluation
+  * Supervisor: Mr. John Muraya
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * 2014-2014: Attachee (Statistics)
+  * Kenya National Highways Authority (KeNHA)
+  * Duties includes: Monitoring and evaluation
+  * Supervisor: Mr. John Muraya
+
   
 Skills
 ======
