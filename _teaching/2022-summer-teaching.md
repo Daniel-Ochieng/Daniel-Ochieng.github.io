@@ -1,20 +1,15 @@
 ---
 title: "Exercise Classes"
 collection: teaching
-type: ""
+type: "Undergraduate and Masters students"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Bremen, Mathematics and Computer Science"
-date: Summer 2022
+date: Summer 2024
 location: "Bremen, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Linear Models (Masters, Statistics students) 
 ======
 
-Heading 2
-======
-
-Heading 3
+Mathematics III (undergraduate, computer science students)
 ======
