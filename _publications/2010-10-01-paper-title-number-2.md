@@ -3,7 +3,6 @@ title: "Multiple testing of interval composite null hypotheses using randomized 
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper concerns testing of multiple composite nulls when the hypothesis is given as an interval and the test statistic is discrete.'
 date: 02 July 2024
 venue: 'Statistical Papers'
 paperurl: 'https://doi.org/10.1007/s00362-024-01591-9'
