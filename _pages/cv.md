@@ -32,7 +32,7 @@ Work experience
   * Duties includes: Monitoring and evaluation
   * Supervisor: Mr. John Muraya
 
-  * 2014-2014: Attachee (Statistics)
+* 2014-2014: Attachee (Statistics)
   * Kenya National Highways Authority (KeNHA)
   * Duties includes: Monitoring and evaluation
   * Supervisor: Mr. John Muraya
