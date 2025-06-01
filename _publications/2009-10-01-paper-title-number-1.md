@@ -9,3 +9,7 @@ venue: 'Biometrical Journal'
 paperurl: 'https://doi.org/10.1002/bimj.202300077'
 citation: 'Ochieng, D., Hoang, A.-T., & Dickhaus, T. (2024). Multiple testing of composite nullhypotheses for discrete data using randomized 𝑝-values. Biometrical Journal, 66, 2300077.https://doi.org/10.1002/bimj.202300077'
 ---
+
+* Multiple testing of composite null hypotheses for discrete data using randomized p-values
+* Multiple testing of composite null hypotheses for discrete data using randomized p-values
+* Multiple testing of composite null hypotheses for discrete data using randomized p-values
