@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Multiple testing of composite null hypotheses for discrete data using randomized p-values"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
