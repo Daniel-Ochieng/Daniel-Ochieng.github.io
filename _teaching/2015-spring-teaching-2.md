@@ -2,7 +2,7 @@
 title: "Exercise Classes"
 collection: teaching
 type: "Undergraduate and Masters students"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "University of Bremen, Mathematics and Computer Science"
 date: Summer 2024
 location: "Bremen, Germany"
