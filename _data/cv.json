@@ -4,58 +4,58 @@
     "email": "owinodan2011@gmail.com",
     "phone": "",
     "website": "https://Daniel-Ochieng.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Some University. Daniel Ochieng holds a bachelors, masters degree in some course, his research interests are in multiple testing using p-value based procedures, equivalence tests, and discrete data",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "postalCode": "1088-00200",
+      "city": "Nairobi",
+      "countryCode": "Kenya",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Daniel Ochieng",
+        "url": ""
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "Daniel Ochieng",
+        "url": "https://orcid.org/0000-0002-1023-5028"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Daniel-Ochieng",
+        "url": "https://github.com/Daniel-Ochieng"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Bremen",
+      "area": "Ph.D in Mathematics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2021",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Nairobi",
+      "area": "MSc. Mathematical Statistics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2017",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Laikipia University",
+      "area": "BSc. Statistics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2012",
+      "endDate": "2015",
       "gpa": null,
       "courses": []
     }
