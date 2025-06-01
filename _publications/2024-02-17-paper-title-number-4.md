@@ -1,7 +1,7 @@
 ---
 title: "A Wild Bootstrap Procedure for the Identification of Optimal Groups in Singular Spectrum Analysis"
 collection: publications
-category: Journal Preprints
+category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 3 Jan 2024
