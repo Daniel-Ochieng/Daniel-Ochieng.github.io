@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate and Postgraduate students"
 permalink: /teaching/2015-spring-teaching-2
 venue: "University of Bremen, Mathematics and Computer Science"
-date: 2022
+date: 2022-01-01
 location: "Bremen, Germany"
 ---
 
