@@ -17,3 +17,15 @@ The following courses were taught during the 2019/2020 and 2020/2021 academic ye
 (v) Stochastic Processes.
 (vi) Statistical computing using R
 
+Work experience
+======
+* Spring 2024: Academic Pages Collaborator
+  * GitHub University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
+
+* Fall 2015: Research Assistant
+  * GitHub University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
