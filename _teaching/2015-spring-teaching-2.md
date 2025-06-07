@@ -1,7 +1,7 @@
 ---
 title: "University of Bremen"
 collection: teaching
-type: "Undergraduate and Masters students"
+type: "Undergraduate and Postgraduate students"
 permalink: /teaching/2015-spring-teaching-2
 venue: "University of Bremen, Mathematics and Computer Science"
 location: "Bremen, Germany"
