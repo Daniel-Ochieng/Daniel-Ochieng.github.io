@@ -26,14 +26,14 @@ Teaching
 Exercise Classes
 ======
 * Academic Year 2018/2019
-  * Introduction to Probability and Statistics I.
+  * Introduction to Probability and Statistics II.
   * Theory of estimation.
     
 * Academic Year 2017/2018
   * Introduction to Probability and Statistics I.
-  * Theory of estimation.
+  * Probability and Measure theory.
   
 * Academic Year 2016/2017
-  * Introduction to Probability and Statistics I.
-  * Theory of estimation.
+  * Linear Algebra.
+  * Applied Statistics.
   
