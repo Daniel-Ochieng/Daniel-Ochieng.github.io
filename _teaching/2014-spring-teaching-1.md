@@ -8,18 +8,12 @@ date: 2019-01-01
 location: "Nyahururu, Kenya"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The following courses were taught during the 2019/2020 and 2020/2021 academic years:
 
-\begin{itemize}
-\item df
-\item dfdf
-\end{itemize}
+(i) Introduction to Probability and Statistics I & II.
+(ii) Theory of estimation.
+(iii) Applied Statistics.
+(iv) Mathematical Statistics I & II.
+(v) Stochastic Processes.
+(vi) Statistical computing using R
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
