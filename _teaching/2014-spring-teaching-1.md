@@ -8,24 +8,32 @@ date: 2019-01-01
 location: "Nyahururu, Kenya"
 ---
 
-The following courses were taught during the 2019/2020 and 2020/2021 academic years:
-
-(i) Introduction to Probability and Statistics I & II.
-(ii) Theory of estimation.
-(iii) Applied Statistics.
-(iv) Mathematical Statistics I & II.
-(v) Stochastic Processes.
-(vi) Statistical computing using R
-
-Work experience
+Teaching
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Internal attachment 2020/2021
+  * Statistical computing using R
+    
+* Academic Year 2020/2021
+  * Introduction to Probability and Statistics I.
+  * Theory of estimation.
+  * Applied Statistics.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
+* Academic Year 2019/2020
+  * Mathematical Statistics I & II.
+  * Stochastic Processes.
+  * Introduction to Probability and Statistics II.
+    
+Exercise Classes
+======
+* Academic Year 2018/2019
+  * Introduction to Probability and Statistics I.
+  * Theory of estimation.
+    
+* Academic Year 2017/2018
+  * Introduction to Probability and Statistics I.
+  * Theory of estimation.
+  
+* Academic Year 2016/2017
+  * Introduction to Probability and Statistics I.
+  * Theory of estimation.
+  
