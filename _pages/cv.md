@@ -50,8 +50,14 @@ Skills
   * Excel
   * SPSS
   * PowerBI
+* Typesetting
+  * LaTeX
 * Teaching
-
+  * Statistics
+  * Mathematics
+  * Programming softwares
+ 
+    
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
