@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate students"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Laikipia University, Mathematics"
+date: 2019
 location: "Nyahururu, Kenya"
 ---
 
