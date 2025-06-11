@@ -1,10 +1,10 @@
 ---
-title: "A Wild Bootstrap Procedure for the Identification of Optimal Groups in Singular Spectrum Analysis"
+title: "Multiple testing procedures for discrete 𝑝-values and composite null hypotheses"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-02-17-paper-title-number-5
 excerpt: ''
-date: 3 Jan 2024
-venue: 'arXiv'
-paperurl: 'https://arxiv.org/pdf/2401.01665'
+date: 4 June 2025
+venue: ''
+paperurl: '10.26092/elib/3995'
 ---
