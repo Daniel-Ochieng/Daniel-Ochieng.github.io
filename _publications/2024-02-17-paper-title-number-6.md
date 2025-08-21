@@ -1,10 +1,12 @@
 ---
-title: "A Wild Bootstrap Procedure for the Identification of Optimal Groups in Singular Spectrum Analysis"
+title: "A Comparison of the Bayesian Posterior Probability and
+the Frequentist p-Value in Testing Equivalence
+Hypotheses"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
-date: 3 Jan 2024
+date: 25 Jul 2025
 venue: 'arXiv'
-paperurl: 'https://arxiv.org/pdf/2401.01665'
+paperurl: 'https://www.arxiv.org/pdf/2507.19685'
 ---
