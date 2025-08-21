@@ -10,6 +10,16 @@ location: "Nyahururu, Kenya"
 
 Teaching
 ======
+* Academic Year 2025/2026: Second Semester
+  * Regression Analysis
+  * Bayesian Inference
+  * Mathematical Statistics II
+    
+* Academic Year 2025/2026: First Semester
+  * Mathematical Statistics III
+  * Stochastic Processes
+  * Theory of Estimation
+     
 * Internal attachment 2020/2021
   * Statistical computing using R
     
