@@ -2,7 +2,7 @@
 title: "Laikipia University"
 collection: teaching
 type: "Undergraduate students"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "Laikipia University, Mathematics"
 date: 2019-01-01
 location: "Nyahururu, Kenya"
