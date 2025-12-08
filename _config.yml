@@ -22,19 +22,19 @@ repository               : "Daniel-Ochieng/Daniel-Ochieng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile2.png"
   name             : "Daniel Ochieng"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/him"  
   bio              : #"T"
   location         : "Kenya"
-  employer         : "Some university"
+  employer         : "Laikipia University"
   uri              : # URL
   email            : "owinodan2011@gmail.com" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/search/stat?searchtype=author&query=Ochieng,+D"
+  googlescholar    : "https://scholar.google.com/citations?user=nyT4L6QAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-1023-5028"
   semantic         : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://ke.linkedin.com/in/daniel-ochieng-69b82a375?trk=people-guest_people_search-card"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
