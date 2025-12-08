@@ -18,7 +18,7 @@ Teaching
 * Academic Year 2025/2026: First Semester
   * Mathematical Statistics III
   * Stochastic Processes
-  * Theory of Estimation
+  * Introduction to Probability and Statistics II
      
 * Internal attachment 2020/2021
   * Statistical computing using R
