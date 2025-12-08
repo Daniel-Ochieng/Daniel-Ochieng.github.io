@@ -2,7 +2,7 @@
 title: "University of Bremen"
 collection: teaching
 type: "Undergraduate and Postgraduate students"
-permalink: /teaching/2015-spring-teaching-2
+permalink: /teaching/2014-spring-teaching-1
 venue: "University of Bremen, Mathematics and Computer Science"
 date: 2022-01-01
 location: "Bremen, Germany"
