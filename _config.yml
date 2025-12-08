@@ -22,7 +22,7 @@ repository               : "Daniel-Ochieng/Daniel-Ochieng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "public_profile.png"
   name             : "Daniel Ochieng"
   pronouns         : # example: "he/him"  
   bio              : #"T"
