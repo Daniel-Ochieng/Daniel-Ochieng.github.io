@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* PhD in Mathematics, University of Bremen, 2025.
-* MSc. in Mathematical Statistics, University of Nairobi, 2019.
-* BSc. in Statistics, Laikipia University, 2015.
+* PhD in Mathematics, University of Bremen, 2025
+* MSc. in Mathematical Statistics, University of Nairobi, 2019
+* BSc. in Statistics, Laikipia University, 2015
 
 Work experience
 ======
 
-* 2025 : Lecturer (Statistics)
+* 2025 to... Lecturer (Statistics)
   * Laikipia University
   * Duties includes: Teaching and Research.
   * Supervisor: Dr. Benson Mobisa.
