@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* 2025-: Lecturer (Statistics)
+
+* 2025 : Lecturer (Statistics)
   * Laikipia University
   * Duties includes: Teaching and Research.
   * Supervisor: Dr. Benson Mobisa.
@@ -46,10 +47,12 @@ Work experience
 Skills
 ======
 * Research
+  * Multiple Testing
+  * Statistical Learning
+  * Stochastics 
 * Programming
   * R
   * Python
-  * Javascript
   * SQL
 * GUI: menu, dialogs
   * Excel
@@ -60,7 +63,7 @@ Skills
 * Teaching
   * Statistics
   * Mathematics
-  * Programming softwares
+  * Programming 
  
     
 Publications
