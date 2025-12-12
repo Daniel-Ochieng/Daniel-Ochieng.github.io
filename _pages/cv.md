@@ -11,18 +11,23 @@ redirect_from:
 
 Education
 ======
-* PhD in Mathematics, University of Bremen, 2025 (expected)
-* MSc. in Mathematical Statistics, University of Nairobi, 2019
-* BSc. in Statistics, Laikipia University, 2015
+* PhD in Mathematics, University of Bremen, 2025.
+* MSc. in Mathematical Statistics, University of Nairobi, 2019.
+* BSc. in Statistics, Laikipia University, 2015.
 
 Work experience
 ======
-* 2019-2021: Tutorial Fellow
+* 2025-: Lecturer (Statistics)
+  * Laikipia University
+  * Duties includes: Teaching and Research.
+  * Supervisor: Dr. Benson Mobisa.
+
+* 2019-2025: Tutorial Fellow (Statistics)
   * Laikipia University
   * Duties includes: Teaching
   * Supervisor: Dr. Poti Abaja
     
-* 2017-2019: Graduate Assistant
+* 2017-2019: Graduate Assistant (Statistics)
   * Laikipia University
   * Duties includes: Exercise classes
   * Supervisor: Dr. Poti Abaja
@@ -78,4 +83,4 @@ Teaching
   
 Service and leadership
 ======
-* 
+* Reviewer for Laikipia University journal.
