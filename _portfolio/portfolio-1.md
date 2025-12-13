@@ -6,7 +6,7 @@ collection: portfolio
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
-#- \url{https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/}
+#- https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/
 #-  \url{https://www.cognitoforms.com/ahri1/connectafricascholarshipapplicationform}
 #-  \url{https://www.acu.ac.uk/funding-opportunities/for-university-staff/grants/early-career-grants/}
 #-  \url{https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MSCA-2025-CITIZENS-01-01}
