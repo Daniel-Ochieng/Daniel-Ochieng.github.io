@@ -20,8 +20,8 @@ main:
   #- title: "Useful Links"
    # url: /portfolio/
         
-  - title: "Books and Quotes"
-    url: /year-archive/
+ # - title: "Books and Quotes"
+  #  url: /year-archive/
     
   - title: "CV"
     url: /cv/
